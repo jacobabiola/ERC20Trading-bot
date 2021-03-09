@@ -3,4 +3,6 @@ Cryptocurrency trading bot
 
 ## Install dependencies
 
-**Npm install
+``Npm install``
+
+``node index.js``
