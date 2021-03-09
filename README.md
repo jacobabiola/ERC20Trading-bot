@@ -7,3 +7,5 @@ Cryptocurrency trading bot
 
 ## Start the bot
 ``node bot.js ``
+
+Change the setting to your requirement
