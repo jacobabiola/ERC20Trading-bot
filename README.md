@@ -5,4 +5,5 @@ Cryptocurrency trading bot
 
 ``Npm install``
 
+## Start the bot
 ``node index.js``
