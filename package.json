@@ -1,7 +1,7 @@
 {
-  "name": "trading-bot",
+  "name": "Crypto trading-bot",
   "version": "0.3.0",
-  "description": "Steal My Cryptocurrency Trading Bot!",
+  "description": "Cryptocurrency Trading Bot!",
   "engines": {
     "node": "10.x"
   },
